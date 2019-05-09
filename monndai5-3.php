@@ -8,5 +8,5 @@ print "array_search関数は配列から特定の値を検索する。int(1)な�
 print "array_slice関数は配列から特定の要素だけを取り出すことが出来る。配列の番号を指定することによりその番号の要素を獲得できる。<br />";
 print "ソート関数は以下の通り。sort,rsort,asort,arsort,ksort,krsot<br />";
 
-print"答えは545ｐ"
+pr
 ?>
