@@ -5,7 +5,7 @@
         <title>データの登録</title>
     </head>
     <body>
-        <form method="POST" action="insert_process2.php">
+        <form method="POST" action="insert_process.php">
             <div>
                 <label for="isbn">ISBNコード:</label><br />
                 <input id="isbn" type="text" name="isbn" size="25" maxlength="20" />
